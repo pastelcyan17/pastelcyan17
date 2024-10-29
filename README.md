@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects related to web dev
 - 📫 How to reach me through my email.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Im still a learner and i want to make myself better enough to have a believe in me that i can code!
+- ⚡ Fun fact: Tech Tinder: You’re out here swiping left on basic troubleshooting while desperately trying to find the perfect tech stack. “Do I want to learn React or just yell at my npm errors?” Newsflash: the best relationship is with clarity, not chaos! , thats whaT people say....
 
 <!---
 pastelcyan17/pastelcyan17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
