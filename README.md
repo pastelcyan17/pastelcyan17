@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pastelcyan17
+- 👋 Hi, I’m @palakShaw
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning javascript , python 
 - 💞️ I’m looking to collaborate on projects related to web dev
